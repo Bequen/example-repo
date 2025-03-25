@@ -1,2 +1,2 @@
-text = "Hello, Git! I have a dumb idea."
+text = "Hello, Git! I have a good idea."
 print(text)
